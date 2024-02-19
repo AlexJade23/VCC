@@ -30,12 +30,15 @@ C’est l’internaute qui choisit combien et à quel créateur de contenus num�
 
 # Missions
 
-   Partager la connaissance entre autre grâce aux conférences audio illustrées
+    Partager la connaissance entre autre grâce aux conférences audio illustrées
 
-   Mieux rémunérer les créateurs de contenu directement par les internautes
+    Mieux rémunérer les créateurs de contenu directement par les internautes
 
-   Inciter à une consommation responsable des contenus numériques
+    Inciter à une consommation responsable des contenus numériques
 
-   Proposer une alternative crédible aux solutions centralisées et privatives
+    Proposer une alternative crédible aux solutions centralisées et privatives
 
-   Révolutionner la publicité
+    Révolutionner la publicité
+
+
+En savoir plus sur 
